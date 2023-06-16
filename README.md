@@ -1,6 +1,7 @@
 # linux4.4-pl2303hxn
 Modified pl2303 driver based on Linux 4.4 generic, which supports pl2303hxn added in 2020 kernel update. For example this driver works in ubuntu 16
 
+XHN commit in kernel source code: https://github.com/torvalds/linux/commit/ebd09f1cd417fce9c85de3abcabf51eadf907a2a
 
 ## Compiling and launching
 
